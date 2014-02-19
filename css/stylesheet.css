@@ -2,3 +2,9 @@
 p {
 font-family: 'Oranienbaum', serif;
 }
+html{
+	background-color:red;
+}
+table{
+	border: 5px;
+}
