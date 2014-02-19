@@ -2,9 +2,21 @@
 p {
 font-family: 'Oranienbaum', serif;
 }
+<<<<<<< HEAD
 html{
 	background-color:red;
 }
 table{
 	border: 5px;
+=======
+
+body
+{
+background-color: gray;
+}
+
+img
+{
+float:right;
+>>>>>>> bde091da11b6e03866ba9bbdb436fd7ee340b227
 }
