@@ -2,3 +2,13 @@
 p {
 font-family: 'Oranienbaum', serif;
 }
+
+body
+{
+background-color: gray;
+}
+
+img
+{
+float:right;
+}
